@@ -1,0 +1,51 @@
+[
+    {
+      "id": 1,
+      "name": "Alice",
+      "year of experience": 3,
+      "number of recipes": 20,
+      "likes": 1500,
+      "img": "https://example.com/img/alice.jpg"
+    },
+    {
+      "id": 2,
+      "name": "Bob",
+      "year of experience": 5,
+      "number of recipes": 50,
+      "likes": 5000,
+      "img": "https://example.com/img/bob.jpg"
+    },
+    {
+      "id": 3,
+      "name": "Charlie",
+      "year of experience": 2,
+      "number of recipes": 10,
+      "likes": 800,
+      "img": "https://example.com/img/charlie.jpg"
+    },
+    {
+      "id": 4,
+      "name": "David",
+      "year of experience": 1,
+      "number of recipes": 5,
+      "likes": 200,
+      "img": "https://example.com/img/david.jpg"
+    },
+    {
+      "id": 5,
+      "name": "Emily",
+      "year of experience": 4,
+      "number of recipes": 30,
+      "likes": 3000,
+      "img": "https://example.com/img/emily.jpg"
+    },
+    {
+      "id": 6,
+      "name": "Frank",
+      "year of experience": 6,
+      "number of recipes": 70,
+      "likes": 10000,
+      "img":"https://example.com/img/Frank.jpg"
+    }
+]
+  
