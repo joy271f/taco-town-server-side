@@ -1,51 +1,56 @@
 [
-    {
-      "id": 1,
-      "name": "Alice",
-      "year of experience": 3,
-      "number of recipes": 20,
-      "likes": 1500,
-      "img": "https://example.com/img/alice.jpg"
-    },
-    {
-      "id": 2,
-      "name": "Bob",
-      "year of experience": 5,
-      "number of recipes": 50,
-      "likes": 5000,
-      "img": "https://example.com/img/bob.jpg"
-    },
-    {
-      "id": 3,
-      "name": "Charlie",
-      "year of experience": 2,
-      "number of recipes": 10,
-      "likes": 800,
-      "img": "https://example.com/img/charlie.jpg"
-    },
-    {
-      "id": 4,
-      "name": "David",
-      "year of experience": 1,
-      "number of recipes": 5,
-      "likes": 200,
-      "img": "https://example.com/img/david.jpg"
-    },
-    {
-      "id": 5,
-      "name": "Emily",
-      "year of experience": 4,
-      "number of recipes": 30,
-      "likes": 3000,
-      "img": "https://example.com/img/emily.jpg"
-    },
-    {
-      "id": 6,
-      "name": "Frank",
-      "year of experience": 6,
-      "number of recipes": 70,
-      "likes": 10000,
-      "img":"https://example.com/img/Frank.jpg"
-    }
+  {
+    "id": 1,
+    "name": "Enrique Olvera",
+    "year_of_experience": 3,
+    "number_of_recipes": 20,
+    "likes": 1500,
+    "img": "https://cdn.vox-cdn.com/thumbor/2RU1zh5ixj67uWNg8VKz0px8Ejw=/1400x1400/filters:format(jpeg)/cdn.vox-cdn.com/uploads/chorus_asset/file/13456512/GettyImages_457411488.jpg",
+    "short_bio": "Enrique Olvera is a Mexican chef. He is the owner and head chef of Pujol, a Mexican haute cuisine restaurant in Mexico City, which is currently ranked 9th in the world according to the 2021 annual The World's 50 Best Restaurants listing."
+  },
+  {
+    "id": 2,
+    "name": "David Castro Hussong",
+    "year_of_experience": 5,
+    "number_of_recipes": 50,
+    "likes": 5000,
+    "img": "https://rb.gy/y1sfw",
+    "short_bio": "In January of 2020, Culinaria Mexicana named Fauna Restaurante the #1 restaurant in Mexico. One week after receiving this prestigious award, we sat down with Executive Chef, David Castro Hussong."
+  },
+  {
+    "id": 3,
+    "name": "Elena Reygadas",
+    "year_of_experience": 2,
+    "number_of_recipes": 10,
+    "likes": 800,
+    "img": "https://media-cldnry.s-nbcnews.com/image/upload/rockcms/2023-04/230424-Elena-Reygadas-Mexico-se-505p-0d22dd.jpg",
+    "short_bio": "Born in Mexico City in 1976, Reygadas was fascinated by the written word and studied English literature at the National Autonomous University of Mexico, but after graduation, it was the kitchen that called to her. Memories of big."
+  },
+  {
+    "id": 4,
+    "name": "Nico Mejía",
+    "year_of_experience": 1,
+    "number_of_recipes": 5,
+    "likes": 200,
+    "img": "https://yt3.googleusercontent.com/ytc/AGIKgqM2iUP7WGs5TF1hnprB9sSmn5vObJgvleAmMO_xLfA=s900-c-k-c0x00ffffff-no-rj",
+    "short_bio": "Nicolás Mejía is a Colombian tennis player. Mejía has a career high ATP singles ranking of 239 achieved on 18 April 2022. He also has a career high ATP doubles ranking of 153 achieved on 7 November 2022."
+  },
+  {
+    "id": 5,
+    "name": "Margarita Carrillo Arronte",
+    "year_of_experience": 4,
+    "number_of_recipes": 30,
+    "likes": 3000,
+    "img": "https://4.bp.blogspot.com/-wSv6zzhIFaY/TccdeqaKqBI/AAAAAAAAAAo/Vvi8NcczrAs/s1600/cheff7.jpg",
+    "short_bio": "Margarita Carrillo Arronte is a chef, author, TV host, restaurateur, and a global ambassador of Mexican cuisine. Born and raised in Mexico, she has dedicated the past 35 years to researching, studying, teaching, and cooking traditional Mexican food."
+  },
+  {
+    "id": 6,
+    "name": "Javier Plascencia",
+    "year_of_experience": 6,
+    "number_of_recipes": 70,
+    "likes": 10000,
+    "img": "https://pbs.twimg.com/profile_images/771053169807794176/wNRKuhCa_400x400.jpg",
+    "short_bio": "Javier Plascencia is a chef from Tijuana, Baja California, Mexico, considered the most famous chef of the city and of all chefs, the one whose cuisine most helped define a new cuisine, Baja Med."
+  }
 ]
-  
